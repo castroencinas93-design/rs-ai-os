@@ -1,1 +1,40 @@
-
+{
+  "id": "",
+  "created_at": "",
+  "video": {
+    "filename": "",
+    "duration": "",
+    "resolution": "",
+    "source": "google_drive"
+  },
+  "analysis": {
+    "equipment": "",
+    "capacity": "",
+    "fuel": "",
+    "service": "",
+    "operation": "",
+    "environment": "",
+    "risk_level": "",
+    "difficulty": "",
+    "keywords": [],
+    "summary": ""
+  },
+  "marketing": {
+    "category": "",
+    "title": "",
+    "hook": "",
+    "reel_script": "",
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "blog_outline": "",
+    "cta": "",
+    "hashtags": [],
+    "ideogram_prompt": "",
+    "clipshort_prompt": ""
+  },
+  "status": {
+    "approved": false,
+    "published": false
+  }
+}
