@@ -1,6 +1,9 @@
 {
   "id": "",
   "created_at": "",
+  "knowledge_score": 94,
+  "marketing_score": 88,
+  "technical_score": 97,
   "video": {
     "filename": "",
     "duration": "",
